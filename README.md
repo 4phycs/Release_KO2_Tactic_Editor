@@ -1,4 +1,4 @@
-# KO2 Tactic Editor
+# Kick Off 2 Tactic Editor
 
 A Windows editor for **Kick Off 2** tactics on the Amiga. Move the players on a pitch for each ball zone and special situation, then write your tactics to an Amiga disk image and use them in the game.
 
